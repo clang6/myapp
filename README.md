@@ -1,2 +1,3 @@
-# myapp
-This is my app
+# Respository to play around with git
+
+Learning git and github
